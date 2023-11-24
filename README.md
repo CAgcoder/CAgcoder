@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Tinggao Cui</h2>
 <p>I'm currently a medical engineer student at <strong><a href="https://www.fau.de/">Friedrich-Alexander-Universität Erlangen-Nürnberg</a></strong> based in Erlangen.I am learning how to develop software elegantly.</p>
-<p> <a href="https://www.linkedin.com/in/tinggao-c-1067b3221/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/tinggao-c-1067b3221/" alt="LinkedIn Badge"></a> </p>
+<p> <a href="https://www.linkedin.com/in/tinggao-c-1067b3221/"><img src="https://img.shields.io/badge/-@Tinggao Cui-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/tinggao-c-1067b3221/" alt="LinkedIn Badge"></a> </p>
 <p>🍊 Don't forget to get some Vitamin C 🍊</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -11,7 +11,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/CAgcoder">Github</a>.</li>
 <!-- <li>💬 Ping me about <strong>react, Angular, and cloud stuff</strong>.</li> -->
 <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
-<li>🎉 Fun Fact:Can ich 四种语言 할 수 있어요(I can speak 4 languages.) </li>
+<li>🎉 Fun Fact:Ich can 四种语言 할 수 있어요(I can speak 4 languages). </li>
 </ul>
 
 
@@ -40,11 +40,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <!-- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" /> -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="25" height="25" />
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" /> -->
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=CAgcoder&show_icons=true&count_private=true" alt="CAgcoder" /></p>
 <!-- <p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p> -->
 <!--
 **CAgcoder/CAgcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
