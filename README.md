@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Tinggao Cui</h2>
-<p>I'm currently a medical engineer student at <strong><a href="https://www.fau.de/">Friedrich-Alexander-Universität Erlangen-Nürnberg</a></strong> based in Erlangen.I am learning how to develop software elegantly.</p>
+<p>I'm currently a mMdical Engineer student at <strong><a href="https://www.fau.de/">Friedrich-Alexander-Universität Erlangen-Nürnberg</a></strong> based in Erlangen,Germany.I am learning how to develop software elegantly.</p>
 <p> <a href="https://www.linkedin.com/in/tinggao-c-1067b3221/"><img src="https://img.shields.io/badge/-@Tinggao Cui-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/tinggao-c-1067b3221/" alt="LinkedIn Badge"></a> </p>
 <p>🍊 Don't forget to get some Vitamin C 🍊</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
