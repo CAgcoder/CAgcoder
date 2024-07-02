@@ -12,7 +12,7 @@
 <li>👨‍💻 Recently working in the GitLab <a href="https://gitlab.com/CAgcoder">Gitlab</a>.</li>
 <!-- <li>💬 Ping me about <strong>react, Angular, and cloud stuff</strong>.</li> -->
 <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
-<li>🎉 Fun Fact:Ich can 四种语言 할 수 있어요(I can speak 4 languages). </li>
+<li>🎉 Fun Fact: Ich can 四种语言 할 수 있어요(I can speak 4 kind of languages). </li>
 </ul>
 
 
