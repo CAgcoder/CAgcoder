@@ -7,7 +7,7 @@
 <ul>
 <!-- <li>🔭 I’m currently working on <a ">Cirrus</a>.</li> -->
 <li>👯 I’m currently working in the team of <a href="(https://qdacity.com/)">QDAcity</a>.</li>
-<li>🧐 Learning about <strong>Cloud DevOps</strong>, <strong>Fullstack Development</strong>, and a bit of <strong>Machine Learning</strong>.</li>
+<li>🧐 Learning about <strong>Cloud Engineering</strong>, <strong>Fullstack Development</strong>, and a bit of <strong>Machine Learning</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/CAgcoder">Github</a>.</li>
 <li>👨‍💻 Recently working in the GitLab <a href="https://gitlab.com/CAgcoder">Gitlab</a>.</li>
 <!-- <li>💬 Ping me about <strong>react, Angular, and cloud stuff</strong>.</li> -->
