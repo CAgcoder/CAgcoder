@@ -68,4 +68,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CAgcoder&show_icons=true&count_private=true" alt="CAgcoder" />
