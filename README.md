@@ -63,5 +63,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CAgcoder&show_icons=true&count_private=true" alt="CAgcoder" />
