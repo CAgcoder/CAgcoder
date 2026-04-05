@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/Docling-2563EB?style=flat-square&logoColor=white" alt="Docling" />
   <img src="https://img.shields.io/badge/Unstructured-1E293B?style=flat-square&logoColor=white" alt="Unstructured" />
-≈</p>
+</p>
 
 <h2>🛠️ Engineering Stack</h2>
 
