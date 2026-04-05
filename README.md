@@ -20,7 +20,7 @@
 <ul>
   <li>🤖 Currently working as an <strong>AI Engineer</strong> at <a href="https://www.valantic.com/">Valantic GmbH</a>.</li>
   <li>🧐 Deep-diving into <strong>LLMs & AI Agents</strong>, <strong>Fullstack Development</strong>, and <strong>Cloud Engineering</strong>.</li>
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/CAgcoder">GitHub</a> and <a href="https://gitlab.com/CAgcoder">GitLab</a>.</li>
+  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/CAgcoder">GitHub</a>.</li>
   <li>🎓 M.Sc. Medical Engineering — <a href="https://www.fau.de/">Friedrich-Alexander-Universität Erlangen-Nürnberg</a>.</li>
   <li>🎉 Fun Fact: Ich can 四种语言 할 수 있어요 (I speak 4 languages).</li>
 </ul>
