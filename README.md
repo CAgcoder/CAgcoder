@@ -15,7 +15,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-<img align="right" width="230" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
+<img align="right" width="230" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
 <ul>
   <li>🤖 AI Engineer at <a href="https://www.valantic.com/">Valantic GmbH</a> — building enterprise-grade AI Agents & RAG systems.</li>
