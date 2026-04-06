@@ -13,7 +13,7 @@
 
 <p>🍊 Don't forget to get some Vitamin C 🍊</p>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm44cmsyZ2FvcGl5MDNqdnFxc2s1ZGhvaHJoaTdmZmJmcml0cXB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 
