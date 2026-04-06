@@ -13,26 +13,19 @@
 
 <p>🍊 Don't forget to get some Vitamin C 🍊</p>
 
+<img align="right" width="180" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-<table>
-<tr>
-<td valign="top" width="65%">
+<ul>
+  <li>🤖 AI Engineer at <a href="https://www.valantic.com/">Valantic GmbH</a> — building enterprise-grade AI Agents & RAG systems.</li>
+  <li>🧠 Focused on <strong>Agentic Workflows</strong>, <strong>LLM Orchestration</strong>, and <strong>Document Intelligence</strong>.</li>
+  <li>⚙️ I care about agents that are <strong>Reliable</strong>, <strong>Controllable</strong>, and <strong>Cost-efficient</strong> — not just clever.</li>
+  <li>👨‍💻 Projects on <a href="https://github.com/CAgcoder">GitHub</a>
+  <li>🎓 M.Sc. Medical Engineering — <a href="https://www.fau.de/">FAU Erlangen-Nürnberg</a></li>
+  <li>🎉 Fun Fact: Ich can 四种语言 할 수 있어요 (I speak 4 languages).</li>
+</ul>
 
-- 🤖 AI Engineer at [Valantic GmbH](https://www.valantic.com/) — building enterprise-grade AI Agents & RAG systems.
-- 🧠 Focused on **Agentic Workflows**, **LLM Orchestration**, and **Document Intelligence**.
-- ⚙️ I care about agents that are **Reliable**, **Controllable**, **Security & Privacy**, and **Cost-efficient** — not just clever.
-- 👨‍💻 Projects on [GitHub](https://github.com/CAgcoder)
-- 🎓 M.Sc. Medical Engineering — [FAU Erlangen-Nürnberg](https://www.fau.de/)
-- 🎉 Fun Fact: Ich can 四种语言 할 수 있어요 (I speak 4 languages).
-
-</td>
-<td valign="top" width="35%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" width="200" />
-</td>
-</tr>
-</table>
 
 <h2>🤖 AI & Agent Stack</h2>
 
