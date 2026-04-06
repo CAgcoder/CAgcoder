@@ -17,6 +17,8 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 
+<img align="right" width="180" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkMzE2emtxb3ZmM3BlZmwyNmM3OTRwa2Z0OXY4aDh5NXd1dG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
+
 <ul>
   <li>🤖 AI Engineer at <a href="https://www.valantic.com/">Valantic GmbH</a> — building enterprise-grade AI Agents & RAG systems.</li>
   <li>🧠 Focused on <strong>Agentic Workflows</strong>, <strong>LLM Orchestration</strong>, and <strong>Document Intelligence</strong>.</li>
